@@ -1,1 +1,10 @@
- 
+计算字母平均长度：
+
+以某字母开头单词的总长度之和/以某字母开头单词的个数
+
+两种methods：
+
+combiner
+
+in-mapper combiner
+
