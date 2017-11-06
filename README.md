@@ -8,3 +8,7 @@ Proj1 : 计算字母平均长度。
         两方法：
 
         Combiner 和 in-mapper Combiner 
+
+Proj2:  找最短路径（单源）
+
+        dijkstra algorithm
